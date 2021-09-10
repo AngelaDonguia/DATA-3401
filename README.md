@@ -9,3 +9,4 @@
 **What is your previous programming experience?** In workforce I have no experiance but academically I took like 2 computer science class in high school and ended up being intrested in anything with prgrammming whcih led me this far to Data science.\
 **What are some of your favorite hobbies?** I love cooking, family road trips, working out and mountain climbing whenever im in Denver!.\
 **Anything else you want to say about yourself?**  I'm excited to be in this class with you! and I hope we have a great journey.
+<img width="612" alt="ubuntu terminal capture" src="https://user-images.githubusercontent.com/89665076/132904236-6a2edd1f-0228-4ca6-b10f-3cfc8adfe9aa.PNG">
